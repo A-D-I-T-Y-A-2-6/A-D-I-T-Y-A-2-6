@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A-D-I-T-Y-A-2-6
+- 👋 Hi, I’m @its_me_adi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning .Advanced Java
 - 💞️ I’m looking to collaborate on Web Development Projects...
